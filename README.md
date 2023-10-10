@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/anetakak/frontend-mentor-expenses-chart)
-- Live Site URL: [Add live site URL here](https://anetakak.github.io/frontend-mentor-expenses-chart/)
+- Live Site URL: [https://anetakak.github.io/frontend-mentor-expenses-chart/](https://anetakak.github.io/frontend-mentor-expenses-chart/)
 
 ## My process
 
