@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/anetakak/frontend-mentor-expenses-chart)
+- Solution URL: [https://www.frontendmentor.io/solutions/expenses-chart-component-RsS6qWrBC6](https://www.frontendmentor.io/solutions/expenses-chart-component-RsS6qWrBC6)
 - Live Site URL: [https://anetakak.github.io/frontend-mentor-expenses-chart/](https://anetakak.github.io/frontend-mentor-expenses-chart/)
 
 ## My process
