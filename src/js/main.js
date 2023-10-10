@@ -31,7 +31,7 @@ const createChartItemContent = (data, maxAmount) => {
     chartBar.addEventListener('mouseout', () => chartAmount.classList.remove('chart__amount--hover'))
 };
 
-fetch("../data.json")
+fetch("./data.json")
 	.then((response) => {
 		return response.json();
 	})
