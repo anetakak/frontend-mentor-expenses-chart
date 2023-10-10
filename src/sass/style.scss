@@ -26,12 +26,18 @@ body {
 	min-width: 200px;
 	max-width: 480px;
 }
+.section {
+	border-radius: 10px;
+	&__heading {
+		font-size: 1.8rem;
+		font-weight: normal;
+	}
+}
 .header {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
 	padding: 1em;
-	border-radius: 10px;
 	background-color: hsl(10, 79%, 65%);
 	color: hsl(33, 100%, 98%);
 	&__heading {
@@ -66,7 +72,6 @@ body {
 .chart {
 	margin-top: 1em;
 	background-color: hsl(33, 100%, 98%);
-	border-radius: 10px;
 	color: hsl(25, 47%, 15%);
 	&__heading {
 		padding: 0.7em 0.7em 1.2em;
