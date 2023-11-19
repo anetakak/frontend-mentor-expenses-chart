@@ -45,7 +45,7 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 - Gulp
-- Vanilla JavaScript
+- JavaScript
 
 ### What I learned
 
